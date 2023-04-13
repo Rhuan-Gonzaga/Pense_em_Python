@@ -1,5 +1,5 @@
 """
-Capitulo 10 - listas
+Livro Pense em Python Capitulo 10 - listas
 Exercicio 10.1
 Escreva uma função chmada nested_sum que receba uma lista de listas
 de numero inteiros e adicione os elementos de todas as listas aninhadas.
