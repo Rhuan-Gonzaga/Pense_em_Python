@@ -11,3 +11,4 @@ def has_duplicates(lista):
 lista = [7,8,9,2,9]
 print(has_duplicates(lista))
 
+33131031999
